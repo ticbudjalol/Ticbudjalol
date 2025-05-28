@@ -7,7 +7,7 @@ I am a **SharePoint and Power Platform expert** who specializes in **building an
 ## 🛠 Skills  
 - **SharePoint Development** (Modern Sites, SPFx, PnP, Lists & Libraries)  
 - **Power Platform** (Power Apps, Power Automate, Dataverse, AI Builder)  
-- **ERP Integrations** (Microsoft Dynamics 365, SAP, Pantheon)  
+- **ERP Integrations** (Microsoft Dynamics 365, Pantheon)  
 - **Backend Development** (Python, Django, Flask, FastAPI)  
 - **Frontend Development** (JavaScript, React, Vue.js)  
 - **Database Management** (SQL: PostgreSQL, MySQL | NoSQL: MongoDB)  
